@@ -1,0 +1,21 @@
+body {
+  background-color: azure;
+}
+
+
+hr {
+border-color: grey;
+border-style: dotted none none;
+border-width: 4px;
+
+width: 5%;
+
+}
+
+h1{
+  color: navy;
+}
+
+h3{
+  color: navy;
+}
